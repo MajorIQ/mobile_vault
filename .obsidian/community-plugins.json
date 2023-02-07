@@ -19,5 +19,7 @@
   "calendar",
   "review-obsidian",
   "nldates-obsidian",
-  "obsidian-to-anki-plugin"
+  "obsidian-to-anki-plugin",
+  "cmenu-plugin",
+  "obsidian-hider"
 ]
